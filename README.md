@@ -4,7 +4,7 @@
 This project is a Music Recommendation System that leverages Convolutional Neural Networks (CNNs) and audio spectrogram analysis to classify songs based on genre, mood, or style. Using raw audio datasets, the data was first categorized and preprocessed into visual spectrograms, enabling the CNN model to learn sound features visually — similar to how image models recognize patterns.
 
 Once trained, the system can recommend similar songs to a given input based on their learned audio feature embeddings or genre predictions.
-
+dataset used -'/kaggle/input/gtzan-dataset-music-genre-classification/Data/genres_original'
 🧠 Project Description
 🎯 Objective
 
